@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env*.local
+.vercel
+*.tsbuildinfo
+.next-dev*.log
+.agents
+outputs
+work
+Thumbs.db
+.DS_Store
